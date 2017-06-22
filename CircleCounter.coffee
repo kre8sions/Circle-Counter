@@ -46,3 +46,5 @@ class Counter extends Layer
 				options:
 					time: @duration
 					delay: i * speed
+
+exports.Counter = Counter
