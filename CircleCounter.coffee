@@ -9,9 +9,9 @@ class Counter extends Layer
 
 	constructor: (options) ->
 		super(options)
-		@width = 350
-		@height = 350
-		@rotation = -90
+		@width ?= 350
+		@height ?= 350
+		@rotation ?= -90
 		@backgroundColor = "rgba(0,0,30,0)"
 		@dotSize ?= 10
 		@startColor ?= "grey"
