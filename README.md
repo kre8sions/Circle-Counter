@@ -4,9 +4,10 @@ Framer Module
 Basic Implementation
 ====
 
-1. Create a new Counter instance
+1. Import the module & create a new Counter instance
 
 ```
+{Counter} = require "CircleCounter"
 layerA =  new Counter
 ```
 2. Set the amount of Dots you want
