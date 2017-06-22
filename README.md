@@ -37,4 +37,4 @@ _endColor_: final color of dots >defaulted to red
 _duration_: length of the transition from switching from startColor to endColor >defaulted to .01
 
 Check out the link
-https://framer.cloud/DliDQ
+https://framer.cloud/kWfkR
